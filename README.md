@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-This is where it all begins.
+Hello world, this is Joel. Joel likes cheese.
